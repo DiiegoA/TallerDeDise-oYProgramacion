@@ -1,0 +1,1 @@
+Entrego un programa que tiene una clase abstracta, interfaces, cuenta con dos comportamientos abstractos de una nave y crea cuatro tipos de naves diferentes con diferentes comportamientos.
